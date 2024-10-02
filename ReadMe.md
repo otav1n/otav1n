@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🔭 Future full stack developer<br>🪐 Astrology fan
 
 
