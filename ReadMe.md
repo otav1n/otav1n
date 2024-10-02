@@ -1,5 +1,5 @@
-💫 About Me:
-🔭 Future full stack developer<br>🪐 Astrology fan
+# 🔭 Future full stack developer
+# 🪐 Astrology fan
 
 
 # 💻 Tech Stack:
