@@ -1,7 +1,7 @@
 # Hey man, welcome to my profile!
 🎓 My name is Otávio Augusto Zangelmi Costa
 
-I’m Otávio, a passionate student of technology and cybersecurity. Currently, I’m pursuing a degree in Software Engineering and dedicating my time to learning Java and C. I've always been fascinated by the inner workings of systems, especially in the areas of intrusion and defense.
+A passionate student of technology and cybersecurity. Currently, I’m pursuing a degree in Software Engineering and dedicating my time to learning Java and C. I've always been fascinated by the inner workings of systems, especially in the areas of intrusion and defense.
 
 My goal is to become a professional in cybersecurity, contributing to the protection of information and systems. I am constantly seeking new challenges and learning opportunities to deepen my understanding in this dynamic field.
 
