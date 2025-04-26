@@ -1,8 +1,3 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
 <br>
 
 <div align="center">
@@ -41,4 +36,10 @@
 <!-- Animação da cobrinha -->
 <div align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
