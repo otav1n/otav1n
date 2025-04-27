@@ -29,6 +29,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Botnet Detection](https://img.shields.io/badge/Botnet_Detection-00ADEF?style=for-the-badge&logo=crowdstrike&logoColor=white)
 ![ProxyChains](https://img.shields.io/badge/ProxyChains-4A8C47?style=for-the-badge&logo=proxychains&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-1C1C1C?style=for-the-badge&logo=nikto&logoColor=white)
 
 
 
