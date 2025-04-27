@@ -24,6 +24,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-1B6AC6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-13D4A3?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![OWASP SQL Injection](https://img.shields.io/badge/OWASP--SQL--Injection-F0AD4E?style=for-the-badge&logo=owasp&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-0C1C1C?style=for-the-badge&logo=gobuster&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Botnet Detection](https://img.shields.io/badge/Botnet_Detection-00ADEF?style=for-the-badge&logo=crowdstrike&logoColor=white)
 ![ProxyChains](https://img.shields.io/badge/ProxyChains-4A8C47?style=for-the-badge&logo=proxychains&logoColor=white)
