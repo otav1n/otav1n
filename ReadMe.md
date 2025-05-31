@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-- I am a Software Engineering student named Otávio Zangelmi with a strong interest in cybersecurity. I have been delving into concepts of  hacking, penetration testing (pentesting), and system protection. My goal is to apply my security knowledge to build robust solutions and identify vulnerabilities in systems, networks, and applications.
+- I am a Software Engineering student named Otávio with a strong interest in cybersecurity. I have been delving into concepts of  hacking, penetration testing (pentesting), and system protection. My goal is to apply my security knowledge to build robust solutions and identify vulnerabilities in systems, networks, and applications.
 
 
 
